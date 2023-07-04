@@ -4,16 +4,16 @@
 
 # Site
 title: 郭颐的博客
-subtitle: ''
-description: ''
-keywords:
+subtitle: '郭颐的博客'
+description: '一个收藏回忆与分享技术的地方。。。'
+keywords: 游戏
 author: 郭颐
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://gy5461.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
